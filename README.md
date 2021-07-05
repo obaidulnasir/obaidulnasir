@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obaidulnasir
-- 👀 I’m interested in python
+- 👀 I’m interested in javascript
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
